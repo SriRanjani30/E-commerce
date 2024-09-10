@@ -3,3 +3,5 @@
 3. Transfer the control to the project directory.
 4. Execute the "shop.html" and the shop will open in your browser.
 ![Screenshot (3503)](https://github.com/user-attachments/assets/ea6530cc-d0cb-4c42-a049-3a27c99ebf16)
+
+https://sriranjani30.github.io/E-commerce/
